@@ -1,7 +1,7 @@
 ModificationType: Addon
 Name: Vanilla Campaigns Remastered
 Version: 1.83
-SimpleDownloadLink: https://dl.dropboxusercontent.com/scl/fi/4f77e1fbp6f0hcqd5e2jt/VCR-Vanilla-Campaigns-Remastered-Beta-v.1.83.big?rlkey=hheonbijqft8jfn09ovq6fj8l&dl=1
+SimpleDownloadLink: https://dl.dropboxusercontent.com/scl/fi/4f77e1fbp6f0hcqd5e2jt/VCR-Vanilla-Campaigns-Remastered-Public-v.1.84.big?rlkey=1nk9a649vlkoz9pl9k8wpl4um&st=0nl68a4w&dl=0
 UIImageSourceLink: ''
 DiscordLink: ''
 ModDBLink: ''
@@ -12,3 +12,4 @@ S3BucketName: ''
 S3FolderName: ''
 S3HostPublicKey: ''
 S3HostSecretKey: ''
+
